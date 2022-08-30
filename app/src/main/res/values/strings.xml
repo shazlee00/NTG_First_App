@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">NTG First App</string>
+    <string name="login_button">Log in</string>
+    <string name="register_button">Register</string>
+    <string name="close_button">return</string>
+
+</resources>
